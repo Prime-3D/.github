@@ -12,7 +12,12 @@ Es por esto que **nos estamos enfocando en simplificar todo el proceso, y de est
 
 ## Sobre nosotros
 
-Somos humanos intentando crear.
+Somos seres humanos
+Sin saber lo que es hoy un ser humano
+...
+Vemos todos colores
+Sin saber lo que es hoy un color
+
 
 ## Únete a 3D Factory
 
