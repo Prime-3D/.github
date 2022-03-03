@@ -6,7 +6,7 @@
 
 Sabemos que la impresión 3D tiene el potencial para generar oportunidades y aportar de manera útil y directa en la vida de todos, generando una nueva cultura de creación y uso.
 
-Esta tecnología se ha vuelto bastante accesible como para que miles de personas puedan comprarse una impresora, sin embargo, hay un proceso que requiere tiempo y capacitación para su uso, complicando así el acceso de miles.
+Esta tecnología se ha vuelto bastante accesible como para que miles de personas puedan comprarse una impresora, sin embargo, hay un proceso que requiere tiempo y capacitación para su uso, complicando así el acceso de muchos.
 
 En 3D Factory trabajamos para facilitar este proceso y crear una nueva filosofía a la hora de comprar, porque **creemos en un futuro** que impulsa la capacidad para expresarse y personalización **mediante la apertura de la impresión 3D a todos!**
 
