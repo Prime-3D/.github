@@ -1,4 +1,4 @@
-# Cultura y Filosofía de 3D Factory
+# Cultura y Filosofía de Prime 3D
 
 ### Estamos en busca de facilitar el acceso a la impresión 3D
 
@@ -8,7 +8,7 @@ Sabemos que la impresión 3D tiene el potencial para generar oportunidades y apo
 
 Esta tecnología se ha vuelto bastante accesible como para que miles de personas puedan comprarse una impresora, sin embargo, hay un proceso que requiere tiempo y capacitación para su uso, complicando así el acceso de muchos.
 
-En 3D Factory trabajamos para facilitar este proceso y crear una nueva filosofía a la hora de comprar, porque **creemos en un futuro** que impulsa la capacidad para expresarse y personalización **mediante la apertura de la impresión 3D a todos!**
+En Prime 3D trabajamos para facilitar este proceso y crear una nueva filosofía a la hora de comprar, porque **creemos en un futuro** que impulsa la capacidad para expresarse y personalización **mediante la apertura de la impresión 3D a todos!**
 
 ## Sobre nosotros
 
@@ -16,7 +16,7 @@ En 3D Factory trabajamos para facilitar este proceso y crear una nueva filosofí
 
 ![Pale Blue Dot](https://pbs.twimg.com/media/FMVwVpHVkAMq2u9.jpg)
 
-## Únete a 3D Factory
+## Únete a Prime 3D
 
 Estamos en búsqueda de gente que le interese la impresión 3D desde cualquier perspectiva. Creemos que la diversidad es un aspecto importante para poder encontrar soluciones creativas a los desafíos que nos encontramos en el proceso de facilitar el acceso la impresión 3D.
 
