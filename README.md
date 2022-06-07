@@ -2,13 +2,14 @@
 
 ### Estamos en busca de facilitar el acceso a la impresión 3D
 
-## ¿Por que?
+## ¿Por qué?
 
 Sabemos que la impresión 3D tiene el potencial para generar oportunidades y aportar de manera útil y directa en la vida de todos, generando una nueva cultura de creación y uso.
 
 Esta tecnología se ha vuelto bastante accesible como para que miles de personas puedan comprarse una impresora, sin embargo, hay un proceso que requiere tiempo y capacitación para su uso, complicando así el acceso de muchos.
 
-En Prime 3D trabajamos para facilitar este proceso y crear una nueva filosofía a la hora de comprar, porque **creemos en un futuro** que impulsa la capacidad para expresarse y personalización **mediante la apertura de la impresión 3D a todos!**
+**En Prime 3D trabajamos porque creemos en un futuro donde este proceso sea sencillo, cómodo y útil, generando la oportunidad de nuevas maneras de expresión.**
+
 
 ## Sobre nosotros
 
