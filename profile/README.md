@@ -8,7 +8,7 @@ Sabemos que la impresión 3D tiene el potencial para generar oportunidades y apo
 
 Esta tecnología se ha vuelto bastante accesible como para que miles de personas puedan comprarse una impresora, sin embargo, hay un proceso que requiere tiempo y capacitación para su uso, complicando así el acceso de muchos.
 
-#### En Prime 3D trabajamos para facilitar este proceso y crear una nueva filosofía a la hora de comprar, porque **creemos en un futuro** que impulsa la capacidad para expresarse y personalización **mediante la apertura de la impresión 3D accesible para todos!**
+#### En Prime 3D estamos desarrollando una nueva plataforma para facilitar el proceso de imprimir **porqué creemos en un futuro que impulsa la capacidad de expresión y creación creativa mediante la apertura de la impresión 3D accesible para todos.**
 
 <!-- ## Únete a Prime 3D
 
