@@ -2,7 +2,6 @@
 
 ## Estamos en busca de facilitar el acceso a la impresión 3D
 
-## ¿Por que?
 
 Sabemos que la impresión 3D tiene el potencial para generar oportunidades y aportar de manera útil y directa en la vida de todos, generando una nueva cultura de creación y uso.
 
